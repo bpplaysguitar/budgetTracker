@@ -34,6 +34,7 @@ HTML<br>
 CSS<br>
 JavaScript<br>
 Node.js<br>
+Mongo<br>
 Mongoose<br>
 IndexedDB
       
